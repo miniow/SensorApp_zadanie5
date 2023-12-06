@@ -1,0 +1,9 @@
+
+h
+java:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(÷ÊÍ“8¹€ä¤À1
+u
+java:S1450"SRemove the "root" field and declare it as a local variable in the relevant methods.(˜ñŸúÿÿÿÿ8øõß¤À1
+>	java:S131!""Add a default case to this switch.(ÜŸ•8ÿõß¤À1
+>	java:S131I""Add a default case to this switch.(÷ÊÍ“8‚öß¤À1
+J
+java:S1068"(Remove this unused "root" private field.(˜ñŸúÿÿÿÿ8‰öß¤À1

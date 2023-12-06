@@ -1,0 +1,13 @@
+
+m
+java:S1301K"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8ÂÚ¤À1
+w
+java:S1450!"ZRemove the "recycleView" field and declare it as a local variable in the relevant methods.(ÇÃ¯‹8ÃÂÚ¤À1
+y
+java:S1450"\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Ş¬–„8ÃÂÚ¤À1
+M
+java:S4524L"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ8ÚÂÚ¤À1
+J
+java:S1172k"-Remove this unused method parameter "sensor".(†³¸8áÂÚ¤À1
+S
+java:S1144k"6Remove this unused private "showSensorDetails" method.(†³¸8ğÂÚ¤À1
